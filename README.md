@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:0d47a1&height=160&section=header&text=Shaharia%20Hossain&fontSize=52&fontColor=00b4ff&fontAlignY=45&desc=Backend%Devloper%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Architect&descAlignY=68&descSize=15&descColor=90caf9&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:0d47a1&height=160&section=header&text=Shaharia%20Hossain&fontSize=52&fontColor=00b4ff&fontAlignY=45&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Architect&descAlignY=68&descSize=15&descColor=90caf9&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=00B4FF&center=true&vCenter=true&width=680&height=40&lines=Building+AI-Powered+Production+Systems+%F0%9F%9A%80;Django+%7C+ASP.NET+Core+%7C+React+%7C+NLP+Research;Architecting+Scalable+Backends+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%7C+Real-World+Problem+Solver)](https://github.com/shaharia-72)
 
