@@ -1,86 +1,90 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED HEADER BANNER                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  HEADER BANNER  ████████████████████████████ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0e27,100:0d47a1&height=220&section=header&text=Shaharia%20Hossain&fontSize=60&fontColor=00b4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20System%20Architect&descAlignY=58&descSize=18&descColor=7ecfff&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:050d1f,70:0a1a3a,100:0d47a1&height=250&section=header&text=Shaharia%20Hossain&fontSize=65&fontColor=00b4ff&fontAlignY=42&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Architect&descAlignY=62&descSize=17&descColor=90caf9&animation=fadeIn&stroke=0d47a1&strokeWidth=2" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=00B4FF&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=60&lines=%F0%9F%9A%80+Building+AI-Powered+Systems;%F0%9F%A7%A0+NLP+%26+Machine+Learning+Engineer;%E2%9A%99%EF%B8%8F+Django+%7C+ASP.NET+Core+%7C+React;%F0%9F%8C%90+Architecting+Scalable+Backends;%F0%9F%94%A5+Turning+Ideas+Into+Real+Systems" alt="Typing SVG" />
-</a>
+<!-- ████████████████████████████  TYPING SVG  ████████████████████████████ -->
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   STATUS BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=22&duration=2600&pause=900&color=00B4FF&background=00000000&center=true&vCenter=true&width=750&height=55&lines=%F0%9F%94%A5+Building+Production-Ready+AI+Systems;%F0%9F%A7%A0+NLP+%7C+Bangla+Language+AI+Researcher;%E2%9A%99%EF%B8%8F+Django+%7C+ASP.NET+Core+%7C+Clean+Architecture;%F0%9F%8C%90+Scalable+Backends+%7C+Real-World+Solutions;%F0%9F%9A%80+Turning+Ideas+Into+Impactful+Systems)](https://github.com/shaharia-72)
+
+<br/>
+
+<!-- ████████████████████████████  TOP BADGES  ████████████████████████████ -->
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00ff88?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0a0e27" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-Open%20to%20Work-00c853?style=for-the-badge&labelColor=0a0e27&color=00c853" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full%20Stack-00b4ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0a0e27" />
+  <img src="https://img.shields.io/badge/%F0%9F%87%A7%F0%9F%87%A9%20Location-Bangladesh-1565c0?style=for-the-badge&labelColor=0a0e27" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Thesis-Bangla%20NLP-7c3aed?style=for-the-badge&logo=academia&logoColor=white&labelColor=0a0e27" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Goal-Europe%20Scholarship-7c3aed?style=for-the-badge&labelColor=0a0e27" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20ASP.NET%20Core-1565c0?style=for-the-badge&logo=django&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20ASP.NET%20Core-00b4ff?style=flat-square&logo=django&logoColor=white&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20SQL%20Server-0d47a1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20NLP-Electra%20%7C%20Ensemble%20ML-7c3aed?style=flat-square&logo=openai&logoColor=white&labelColor=000000" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-0d47a1?style=flat-square&logo=react&logoColor=61dafb&labelColor=000000" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DB-PostgreSQL%20%7C%20SQL%20Server-1565c0?style=flat-square&logo=postgresql&logoColor=white&labelColor=000000" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=0d47a1&style=flat-square&labelColor=000000" />
+<img src="https://komarev.com/ghpvc/?username=shaharia-72&label=Profile+Views&color=0d47a1&style=flat-square&labelColor=0a0e27" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ABOUT ME SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  ABOUT ME  ████████████████████████████ -->
 
-<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZmeGRxenZwdHp6bjl4d3pxYW1pbWkxbHN6cWd4d29mM3ZhYTdlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="310" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### `> whoami`
+### `~/shaharia-72 » whoami`
 
 ```yaml
-Name        : Shaharia Hossain
-Role        : Full Stack Developer & AI Engineer
-Location    : Bangladesh 🇧🇩
-Interests   : System Design, NLP, Backend Architecture
-Goal        : Europe Scholarship + Impactful Tech Career
-Philosophy  : "I don't just write code — I architect systems."
+╔══════════════════════════════════════════════════╗
+║  Name       :  Shaharia Hossain                  ║
+║  Role       :  Full Stack Developer & AI Engineer ║
+║  Location   :  Bangladesh 🇧🇩                    ║
+║  Portfolio  :  shaharia-hossain.onrender.com      ║
+║  Focus      :  System Design + NLP Research       ║
+║  Passion    :  Real-World Problem Solving         ║
+║  Philosophy :  Architect systems, not just code   ║
+╚══════════════════════════════════════════════════╝
 ```
 
-```python
-class Shaharia:
-    def __init__(self):
-        self.skills     = ["Django", "ASP.NET Core", "React", "NLP"]
-        self.databases  = ["PostgreSQL", "SQL Server", "SQLite"]
-        self.tools      = ["Docker", "Git", "Linux", "REST APIs"]
-        self.ai_focus   = ["Text Classification", "Ensemble ML", "NLP"]
-        self.currently  = "Building AI-integrated production systems"
+<br/>
 
-    def ambition(self):
-        return "Build systems that create real-world impact 🚀"
+```python
+class ShahariaHossain:
+
+    stack   = ["Django", "ASP.NET Core", "React", "Next.js"]
+    ai      = ["NLP", "Electra Models", "Ensemble ML", "Text Classification"]
+    db      = ["PostgreSQL", "SQL Server", "SQLite"]
+    tools   = ["Docker", "Git", "Linux", "REST APIs", "Entity Framework Core"]
+    solving = ["Codeforces", "HackerRank", "LeetCode"]
+
+    def mission(self) -> str:
+        return "Build AI-powered systems that create real-world impact 🚀"
+
+    def available_for(self) -> list:
+        return ["Full-time Roles", "Remote Work", "Research Collaboration"]
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   TECH STACK                                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  TECH STACK  ████████████████████████████ -->
 
 <div align="center">
 
 ### ⚡ Tech Arsenal
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,js,ts,react,nextjs&theme=dark&perline=8" />
 
@@ -91,221 +95,111 @@ class Shaharia:
 <br/><br/>
 
 <table>
+<thead>
 <tr>
-<td align="center" width="200">
+<th align="center">🐍 Backend</th>
+<th align="center">🎨 Frontend</th>
+<th align="center">🧠 AI / ML</th>
+<th align="center">⚙️ DevOps & Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
 
-**🐍 Backend**
-```
-Python / Django
-C# / ASP.NET Core
-REST API Design
+Python · Django<br/>
+C# · ASP.NET Core<br/>
+REST API Design<br/>
 Entity Framework Core
-```
 
 </td>
-<td align="center" width="200">
+<td align="center">
 
-**🎨 Frontend**
-```
-React.js / Next.js
-JavaScript / TypeScript
-Bootstrap 5
+React.js · Next.js<br/>
+JavaScript · TypeScript<br/>
+Bootstrap 5<br/>
 Responsive Design
-```
 
 </td>
-<td align="center" width="200">
+<td align="center">
 
-**🧠 AI / ML**
-```
-NLP & Text Classification
-Electra-based Models
-Ensemble Learning
-Bangla AI Research
-```
+NLP · Electra Models<br/>
+Ensemble Learning<br/>
+Text Classification<br/>
+Bangla Language AI
 
 </td>
-<td align="center" width="200">
+<td align="center">
 
-**⚙️ DevOps**
-```
-Docker
-Git & GitHub
-Linux (Ubuntu)
-Render / Fly.io
-```
+Docker · Linux<br/>
+Git · GitHub<br/>
+Render · Fly.io<br/>
+C · C++ · Java
 
 </td>
 </tr>
+</tbody>
 </table>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  COMPETITIVE PROGRAMMING  ████████████████████████████ -->
 
 <div align="center">
 
-### 🔥 Featured Projects
+### 🏆 Competitive Programming
 
 </div>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-#### 🗓️ Advanced Event Booking System
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-> Production-ready event management platform with intelligent lifecycle handling.
-
-- 🔐 Public & private event management
-- 📧 CSV + email-based invitation system
-- 🎫 Ticketing & participant limits engine
-- 🔍 Advanced filtering with futuristic UI
-- ♻️ Full registration lifecycle management
-
-**Focus:** `Scalable Event-Driven Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📦 Smart Inventory & Delivery System
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20Powered-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![QR](https://img.shields.io/badge/QR%20System-000000?style=flat-square&logo=qrcode&logoColor=white)
-
-> AI-augmented multi-vendor inventory with live delivery tracking.
-
-- 🤖 AI-based product recommendation engine
-- 📲 QR/Barcode system integration
-- 🚚 Real-time delivery tracking
-- 🏪 Multi-vendor platform support
-- 🔔 Discount & stock alert system
-
-**Focus:** `Real-World Business Automation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏢 Company Management Admin Panel
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-> Enterprise-grade admin system with clean architecture patterns.
-
-- ⚡ Full CRUD with seamless AJAX
-- 🖼️ Image upload & live preview
-- 🗂️ Repository pattern implementation
-- 📊 Clean dashboard UI
-- 🔑 Role-based access control
-
-**Focus:** `Enterprise-Grade Backend Design`
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 Bangla Hate Speech Detection
-![NLP](https://img.shields.io/badge/NLP-FF6B6B?style=flat-square&logo=openai&logoColor=white)
-![Electra](https://img.shields.io/badge/Electra%20Model-4285F4?style=flat-square&logo=google&logoColor=white)
-![Research](https://img.shields.io/badge/Thesis%20Work-7C3AED?style=flat-square&logo=academia&logoColor=white)
-
-> AI research system combating online hate speech in Bangla.
-
-- 🧠 Electra-based transformer architecture
-- 🔄 Ensemble ML approach
-- 📊 Advanced evaluation & visualization
-- 🇧🇩 Bangla language NLP focus
-- 📈 High-accuracy classification system
-
-**Focus:** `AI Research + Real-World Impact`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧾 Leave Management System
-![CSharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-> HR automation with role-based approval workflows.
-
-- 👥 Admin / HR / Employee roles
-- 📅 Calendar-based leave requests
-- ✅ Automated approval workflow
-- 📊 Leave quota tracking
-- 🤖 Telegram bot integration (planned)
-
-**Focus:** `Business Logic & Workflow Systems`
-
-</td>
-<td width="50%" valign="top">
-
-#### 📚 Online Course Platform
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-> EdTech platform with modern UI and rich feature set.
-
-- 🎓 Course listing with modern UI
-- 👩‍🏫 Enhanced teacher system
-- ⭐ Ratings & review system
-- 👨‍🎓 Enrollment management
-- 📐 Clean EdTech architecture
-
-**Focus:** `EdTech Platform Architecture`
-
-</td>
-</tr>
-</table>
+```
+ ╔═══════════════════════════════════════════════════════════════════════════╗
+ ║                                                                           ║
+ ║   ⚔️  Codeforces    →  Active problem solver (C / C++)                   ║
+ ║   🟩  HackerRank    →  Regular challenges + algorithm practice            ║
+ ║   🟡  LeetCode      →  Data structures & algorithmic problem solving      ║
+ ║   📘  C / C++       →  Core systems-level programming foundation          ║
+ ║                                                                           ║
+ ║   > Sharpening logic daily — because great engineers solve hard problems  ║
+ ║                                                                           ║
+ ╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  GITHUB STATS  ████████████████████████████ -->
 
 <div align="center">
 
 ### 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00b4ff&icon_color=00b4ff&text_color=c9d1d9&ring_color=0d47a1" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&ring=0d47a1&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=7ecfff&dates=c9d1d9" />
-
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00b4ff&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shaharia-72&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00b4ff&icon_color=0d47a1&text_color=90caf9&ring_color=0d47a1&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharia-72&theme=tokyonight&hide_border=true&border_radius=14&background=0d1117&ring=0d47a1&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=90caf9&dates=546e7a&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharia-72&layout=compact&theme=tokyonight&hide_border=true&border_radius=14&bg_color=0d1117&title_color=00b4ff&text_color=90caf9&langs_count=8" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   ACTIVITY GRAPH                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  ACTIVITY GRAPH  ████████████████████████████ -->
 
 <div align="center">
 
-### 📈 Contribution Graph
+### 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&bg_color=0d1117&color=00b4ff&line=0d47a1&point=00b4ff&area=true&area_color=0d47a1&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaharia-72&bg_color=0d1117&color=00b4ff&line=0d47a1&point=00b4ff&area=true&area_color=0d2a6e&hide_border=true&radius=8" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   WHAT MAKES ME DIFFERENT                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  WHY HIRE ME  ████████████████████████████ -->
 
 <div align="center">
 
@@ -314,74 +208,62 @@ Render / Fly.io
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   🏗️  I design SYSTEMS, not just features                          │
-│   🧠  AI + Full Stack combined — rare skill set                    │
-│   📐  Clean architecture: SOLID, Repository Pattern, DRY           │
-│   🚀  Production-minded: scalable, maintainable, optimized         │
-│   🔎  Real-world focus: every project solves actual problems        │
-│   📚  Research-grade work: thesis-level NLP for Bangla language    │
-│   ⚡  Fast learner: adapts quickly to new stacks & challenges      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════════════════╗
+ ║                                                                      ║
+ ║  🏗️  I design complete SYSTEMS — not just isolated features         ║
+ ║  🧠  Rare combo: AI Research + Full Stack Engineering                ║
+ ║  📐  Clean architecture: SOLID · Repository Pattern · DRY           ║
+ ║  🚀  Production mindset: scalable, maintainable, optimized          ║
+ ║  🔬  Thesis-level NLP research on Bangla language hate speech       ║
+ ║  ⚔️  Competitive programmer — strong algorithmic foundation         ║
+ ║  ⚡  Fast learner who ships real, working software                  ║
+ ║  🌍  Multilingual communicator with global collaboration mindset    ║
+ ║                                                                      ║
+ ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  CURRENT FOCUS  ████████████████████████████ -->
 
 <div align="center">
 
 ### 🎯 Currently Working On
 
-</div>
+| | |
+|:---:|:---|
+| 🤖 | **LangChain & advanced LLM application development** |
+| 🏗️ | **Production-level system architecture & design patterns** |
+| 🔬 | **Expanding Bangla AI NLP research & publications** |
+| 🌍 | **Targeting top-tier software roles & Europe MSc scholarships** |
+| 🏆 | **Advancing competitive programming ratings** |
 
-<table align="center">
-<tr>
-<td align="center">🔬</td>
-<td><strong>Advanced AI-integrated backend systems</strong></td>
-</tr>
-<tr>
-<td align="center">🏗️</td>
-<td><strong>Scalable system design & clean architecture</strong></td>
-</tr>
-<tr>
-<td align="center">🌍</td>
-<td><strong>Preparing for top-tier software roles & Europe scholarship</strong></td>
-</tr>
-<tr>
-<td align="center">📖</td>
-<td><strong>LangChain & advanced LLM application development</strong></td>
-</tr>
-</table>
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONNECT                                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████  CONNECT  ████████████████████████████ -->
 
 <div align="center">
 
-### 🌐 Connect With Me
+### 🌐 Let's Connect
 
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<br/>
+
+<a href="https://github.com/shaharia-72">
+  <img src="https://img.shields.io/badge/GitHub-shaharia--72-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<a href="https://www.linkedin.com/in/shaharia-hossain-s72/">
+  <img src="https://img.shields.io/badge/LinkedIn-shaharia--hossain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<a href="https://shaharia-hossain.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-00b4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
 </a>
 &nbsp;
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-00b4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" />
+<a href="https://www.facebook.com/shaharia.hossain.72/">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
 </a>
 
 <br/><br/>
@@ -394,6 +276,6 @@ Render / Fly.io
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:0a0e27,100:000000&height=120&section=footer&text=Let%27s%20Build%20Something%20Extraordinary&fontSize=20&fontColor=00b4ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,40:0a1a3a,80:050d1f,100:000000&height=130&section=footer&text=Open%20to%20Collaborate%20%E2%80%A2%20Open%20to%20Opportunities&fontSize=17&fontColor=00b4ff&fontAlignY=65&animation=fadeIn" />
 
 </div>
