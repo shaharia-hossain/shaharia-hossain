@@ -16,7 +16,7 @@
 
 ```python
 class ShahariaHossain:
-  stack  = ["Django", "ASP.NET Core", "React", "Next.js"]
+  stack  = ["Django", "React", "Next.js"]
   ai     = ["NLP", "Electra", "Ensemble ML", "Bangla AI"]
   db     = ["PostgreSQL", "SQL Server", "SQLite"]
   tools  = ["Docker", "Git", "Linux", "REST APIs"]
