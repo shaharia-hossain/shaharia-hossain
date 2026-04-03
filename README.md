@@ -35,12 +35,12 @@ class ShahariaHossain:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,js,ts,react,nextjs,postgres,sqlite,docker,git,linux,vscode&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,django,cs,js,ts,react,nextjs,postgres,sqlite,docker,git,linux,vscode&theme=dark&perline=14" />
 
 | 🐍 Backend | 🎨 Frontend | 🧠 AI / ML | ⚙️ DevOps |
 |:---:|:---:|:---:|:---:|
-| Python · Django · C# | React · Next.js · TS | NLP · Electra · Ensemble | Docker · Linux · Git |
-| ASP.NET Core · EF Core | Bootstrap · REST APIs | Text Classification | Render · Fly.io · C++ |
+| Python · Django | React · Next.js · TS | NLP · Electra · Ensemble | Docker · Linux · Git |
+| Bootstrap · REST APIs | Text Classification | Render · Fly.io · C++ |
 
 </div>
 
