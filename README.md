@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a1628,100:0d47a1&height=160&section=header&text=Shaharia%20Hossain&fontSize=52&fontColor=00b4ff&fontAlignY=45&desc=Backend%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20System%20Architect&descAlignY=68&descSize=15&descColor=90caf9&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=00B4FF&center=true&vCenter=true&width=680&height=40&lines=Building+AI-Powered+Production+Systems+%F0%9F%9A%80;Django+%7C+ASP.NET+Core+%7C+React+%7C+NLP+Research;Architecting+Scalable+Backends+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%7C+Real-World+Problem+Solver)](https://github.com/shaharia-72)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=00B4FF&center=true&vCenter=true&width=680&height=40&lines=Building+AI-Powered+Production+Systems+%F0%9F%9A%80;Django+%7C+ASP.NET+Core+%7C+React+%7C+NLP+Research;Architecting+Scalable+Backends+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%7C+Real-World+Problem+Solver)](https://github.com/shaharia-hossain)
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-00c853?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27" /> <img src="https://img.shields.io/badge/Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1565c0?style=flat-square&labelColor=0a0e27" /> <img src="https://komarev.com/ghpvc/?username=shaharia-72&label=Views&color=0d47a1&style=flat-square&labelColor=0a0e27" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-00c853?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27" /> <img src="https://img.shields.io/badge/Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1565c0?style=flat-square&labelColor=0a0e27" /> <img src="https://komarev.com/ghpvc/?username=shaharia-hossain&label=Views&color=0d47a1&style=flat-square&labelColor=0a0e27" />
 
 </div>
 
@@ -59,12 +59,12 @@ class ShahariaHossain:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaharia-72&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00b4ff&icon_color=0d47a1&text_color=90caf9&ring_color=0d47a1&count_private=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharia-72&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=0d47a1&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=90caf9&dates=546e7a" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaharia-hossain&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00b4ff&icon_color=0d47a1&text_color=90caf9&ring_color=0d47a1&count_private=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharia-hossain&theme=tokyonight&hide_border=true&border_radius=10&background=0d1117&ring=0d47a1&fire=00b4ff&currStreakLabel=00b4ff&sideLabels=90caf9&dates=546e7a" />
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharia-72&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00b4ff&text_color=90caf9" />
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharia-hossain&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117&title_color=00b4ff&text_color=90caf9" />
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaharia-72&bg_color=0d1117&color=00b4ff&line=0d47a1&point=00b4ff&area=true&area_color=0d2a6e&hide_border=true&radius=6" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaharia-hossain&bg_color=0d1117&color=00b4ff&line=0d47a1&point=00b4ff&area=true&area_color=0d2a6e&hide_border=true&radius=6" />
 
 </div>
 
@@ -98,7 +98,7 @@ class ShahariaHossain:
 
 **`> connect`**
 
-[![GitHub](https://img.shields.io/badge/GitHub-shaharia--72-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/shaharia-72) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaharia--hossain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/shaharia-hossain-s72/) [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00b4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://shaharia-hossain.onrender.com/) [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000)](https://www.facebook.com/shaharia.hossain.72/)
+[![GitHub](https://img.shields.io/badge/GitHub-shaharia--72-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/shaharia-hossain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-shaharia--hossain-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/shaharia-hossain-s72/) [![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-00b4ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000)](https://shaharia-hossain.onrender.com/) [![Facebook](https://img.shields.io/badge/Facebook-Connect-1877f2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000)](https://www.facebook.com/shaharia.hossain.72/)
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
