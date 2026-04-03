@@ -35,7 +35,7 @@ class ShahariaHossain:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,cs,js,ts,react,nextjs,postgres,sqlite,docker,git,linux,vscode&theme=dark&perline=14" />
+<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs,postgres,sqlite,docker,git,linux,vscode&theme=dark&perline=14" />
 
 | 🐍 Backend | 🎨 Frontend | 🧠 AI / ML | ⚙️ DevOps |
 |:---:|:---:|:---:|:---:|
