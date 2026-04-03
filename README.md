@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2400&pause=800&color=00B4FF&center=true&vCenter=true&width=680&height=40&lines=Building+AI-Powered+Production+Systems+%F0%9F%9A%80;Django+%7C+ASP.NET+Core+%7C+React+%7C+NLP+Research;Architecting+Scalable+Backends+%E2%9A%99%EF%B8%8F;Competitive+Programmer+%7C+Real-World+Problem+Solver)](https://github.com/shaharia-72)
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-00c853?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27" /> <img src="https://img.shields.io/badge/Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1565c0?style=flat-square&labelColor=0a0e27" /> <img src="https://img.shields.io/badge/Goal-Europe%20Scholarship-7c3aed?style=flat-square&labelColor=0a0e27" /> <img src="https://komarev.com/ghpvc/?username=shaharia-72&label=Views&color=0d47a1&style=flat-square&labelColor=0a0e27" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-00c853?style=flat-square&logo=checkmarx&logoColor=white&labelColor=0a0e27" /> <img src="https://img.shields.io/badge/Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-1565c0?style=flat-square&labelColor=0a0e27" /> <img src="https://komarev.com/ghpvc/?username=shaharia-72&label=Views&color=0d47a1&style=flat-square&labelColor=0a0e27" />
 
 </div>
 
