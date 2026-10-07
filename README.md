@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shaharia Hossain
 
-I am a Software Engineer and AI Researcher with a strong academic focus on **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Machine Learning**. I am currently preparing for advanced research studies (MEXT Scholarship) to explore innovations in multilingual NLP and intelligent conversational agents.
+I am a Software Engineer and AI Researcher with a strong academic focus on **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Machine Learning**. I am currently preparing for advanced research studies  to explore innovations in multilingual NLP and intelligent conversational agents.
 
 ### 🔬 Research Interests
 - **Natural Language Processing:** Language modeling, tokenization strategies, and deep learning approaches for low-resource languages.
